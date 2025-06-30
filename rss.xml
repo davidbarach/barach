@@ -5,7 +5,7 @@
     <link>file:///Users/db/Documents/MyRSSFeed/rss.xml</link>
     <description>Links saved locally from my Mac</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 21:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 21:36:30 GMT</lastBuildDate>
     <item>
       <title>Installing lxml</title>
       <link>https://lxml.de/installation.html</link>
@@ -26,6 +26,13 @@
       <description>There’s not really any normal way to start a relationship. Some people go on a date, and then another date, and then another, and one day it’s just clear to both of them that they’re in a relationship.</description>
       <pubDate>Mon, 30 Jun 2025 21:33:09 GMT</pubDate>
       <guid>https://waitbutwhy.com/2016/09/marriage-decision.html</guid>
+    </item>
+    <item>
+      <title>Religion for the Nonreligious — Wait But Why</title>
+      <link>https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html</link>
+      <description>Note: If you want to print this post or read it offline, the PDF is probably the way to go. You can buy it here. The mind…can make a heaven of hell, a hell of heaven.</description>
+      <pubDate>Mon, 30 Jun 2025 21:36:30 GMT</pubDate>
+      <guid>https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html</guid>
     </item>
   </channel>
 </rss>
