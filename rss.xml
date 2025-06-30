@@ -5,7 +5,7 @@
     <link>file:///Users/db/Documents/MyRSSFeed/rss.xml</link>
     <description>Links saved locally from my Mac</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 21:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 21:38:55 GMT</lastBuildDate>
     <item>
       <title>Installing lxml</title>
       <link>https://lxml.de/installation.html</link>
@@ -33,6 +33,13 @@
       <description>Note: If you want to print this post or read it offline, the PDF is probably the way to go. You can buy it here. The mind…can make a heaven of hell, a hell of heaven.</description>
       <pubDate>Mon, 30 Jun 2025 21:36:30 GMT</pubDate>
       <guid>https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html</guid>
+    </item>
+    <item>
+      <title>The afterlife of Apple Accounts (and others)</title>
+      <link>https://sixcolors.com/post/2025/06/the-afterlife-of-apple-accounts-and-others/</link>
+      <description> I know we all like to get a good memento mori jolt now and again, particularly when the world is in turmoil! (That’s sarcasm.)</description>
+      <pubDate>Mon, 30 Jun 2025 21:38:55 GMT</pubDate>
+      <guid>https://sixcolors.com/post/2025/06/the-afterlife-of-apple-accounts-and-others/</guid>
     </item>
   </channel>
 </rss>
