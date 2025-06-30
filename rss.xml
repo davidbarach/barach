@@ -5,13 +5,20 @@
     <link>file:///Users/db/Documents/MyRSSFeed/rss.xml</link>
     <description>Links saved locally from my Mac</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jun 2025 05:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 05:44:22 GMT</lastBuildDate>
     <item>
       <title>Installing lxml</title>
       <link>https://lxml.de/installation.html</link>
-      <description></description>
+      <description/>
       <pubDate>Mon, 30 Jun 2025 05:11:17 GMT</pubDate>
       <guid>https://lxml.de/installation.html</guid>
+    </item>
+    <item>
+      <title>AI Fluency: Frameworks and Foundations</title>
+      <link>https://www.anthropic.com/ai-fluency/overview</link>
+      <description></description>
+      <pubDate>Mon, 30 Jun 2025 05:44:22 GMT</pubDate>
+      <guid>https://www.anthropic.com/ai-fluency/overview</guid>
     </item>
   </channel>
 </rss>
