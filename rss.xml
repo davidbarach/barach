@@ -5,6 +5,13 @@
     <link>file:///Users/db/Documents/MyRSSFeed/rss.xml</link>
     <description>Links saved locally from my Mac</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jun 2025 20:59:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 05:11:17 GMT</lastBuildDate>
+    <item>
+      <title>Installing lxml</title>
+      <link>https://lxml.de/installation.html</link>
+      <description></description>
+      <pubDate>Mon, 30 Jun 2025 05:11:17 GMT</pubDate>
+      <guid>https://lxml.de/installation.html</guid>
+    </item>
   </channel>
 </rss>
